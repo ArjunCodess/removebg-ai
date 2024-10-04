@@ -24,8 +24,7 @@ export const metadata: Metadata = {
     title: "RemoveBG - Easy Background Removal",
     description: "Remove backgrounds from your images quickly and easily with our AI-powered tool.",
     type: "website",
-    url: "https://ai-removebg.vercel.app/",
-    images: "/og-image.jpg",
+    url: "https://removebg-ai.vercel.app/",
   },
   twitter: {
     title: "RemoveBG - Easy Background Removal",
