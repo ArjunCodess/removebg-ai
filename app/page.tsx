@@ -85,7 +85,7 @@ export default function Home() {
   }, [isFullScreen])
 
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col min-h-[90vh]">
       {/* Main Content */}
       <main className="flex-grow container mx-auto p-4">
         <div className="flex flex-col md:flex-row gap-4">
